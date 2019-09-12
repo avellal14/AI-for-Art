@@ -11,6 +11,10 @@ Files in this repository contain implementations of various 2d and 3d discrimina
 
 ## Examples of Generated Paintings
 A few images of Duke campus landmarks painted in the style of various Renaissance painters.
-
-Some example images are below: 
 ![alt text](https://github.com/avellal14/AI-for-Art/blob/master/AI_for_Art_1.png)
+![alt text](https://github.com/avellal14/AI-for-Art/blob/master/AI_for_Art_2.png)
+![alt text](https://github.com/avellal14/AI-for-Art/blob/master/AI_for_Art_3.png)
+![alt text](https://github.com/avellal14/AI-for-Art/blob/master/AI_for_Art_4.png)
+![alt text](https://github.com/avellal14/AI-for-Art/blob/master/AI_for_Art_5.png)
+![alt text](https://github.com/avellal14/AI-for-Art/blob/master/AI_for_Art_6.png)
+![alt text](https://github.com/avellal14/AI-for-Art/blob/master/AI_for_Art_7.png)
